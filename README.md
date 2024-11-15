@@ -13,13 +13,12 @@ Note: SSDT files are built for my system, thus it may not work for other systems
 - dGPU: Nvidia MX250 (disabled)
 - RAM: 8 GB DDR4
 - SSD: LITEON CV8-8E128-HP
-- Audio: Realtek ALC257 (to be confirmed)
+- Audio: Realtek ALC295
 - Ethernet: Realtek RTL8111
 
 ## BIOS Settings
 
 - CSM: Disabled
-- VT: Disabled
 - Intel SGX: Disabled
 - Secure Boot: Disabled
 - SATA Devices: AHCI mode
@@ -40,18 +39,18 @@ Note: SSDT files are built for my system, thus it may not work for other systems
 
 - Ethernet
 - iGPU Acceleration
-- Brightness (working but cannot use max)
+- Brightness
+- USB
+- Audio
+- Sleep
 
 ## What's not working
 
 - WiFi
-- Audio (Needs setup)
-- USB (Needs mapping)
-- Webcam
+- Webcam (Black Screen)
 
 ## Untested
 
 - Siri
 - iMessage
 - Microphone
-- Sleep

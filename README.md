@@ -47,6 +47,7 @@ Note: SSDT files are built for my system, thus it may not work for other systems
 ## What's not working
 
 - WiFi
+- Bluetooth
 - Webcam (Black Screen)
 
 ## Untested

@@ -33,13 +33,17 @@ Note: SSDT files are built for my system, thus it may not work for other systems
 
 1. Clone the repository.
 1. Fill up `config.plist > PlatformInfo` using `MacBookPro16,1`.
-1. Obtain a copy of recovery (Google is free).
+1. Obtain a copy of the Sequoia recovery (Google is free).
 1. Wait for the boot to finish.
 1. Install the OS.
 1. Boot into `macOS Installer` until it is done.
    1. If you encounter a boot loop, try setting `SecureBootModel` to `Disabled`.
    1. After finishing the install, you can set it back to `Default`.
 1. Boot into the OS.
+1. Make sure everything is working.
+1. Obtain a copy of the Tahoe Beta 2 upgrade installer (again, Google is free).
+1. Run the upgrade file.
+1. Install the Tahoe beta.
 
 ## What's working
 

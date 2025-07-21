@@ -77,7 +77,7 @@
 						<key>TrackpadSecondaryClickCorners</key>
 						<true/>
 						<key>TrackpadThreeFingerDrag</key>
-						<false/>
+						<true/>
 					</dict>
 					<key>DisableDevice</key>
 					<false/>

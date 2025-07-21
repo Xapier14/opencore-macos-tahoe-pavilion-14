@@ -44,7 +44,10 @@ Note: SSDT files are built for my system, thus it may not work for other systems
 - Brightness
 - USB
 - Audio
+- Microphone
 - Sleep
+- Siri
+- XCode & iOS Simulator
 
 ## What's not working
 
@@ -54,6 +57,4 @@ Note: SSDT files are built for my system, thus it may not work for other systems
 
 ## Untested
 
-- Siri
 - iMessage
-- Microphone

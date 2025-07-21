@@ -1,5 +1,7 @@
 # OpenCore 1.0.2 - macOS 15 (Sequoia)
 
+> Note: Also tested to be working on macOS 14 (Sonoma)
+
 OpenCore configuration for booting on an HP Pavillion 14 laptop.
 Still in progress, but you should be able to boot and install.
 
@@ -20,7 +22,7 @@ Note: SSDT files are built for my system, thus it may not work for other systems
 
 - CSM: Disabled
 - Intel SGX: Disabled
-- Secure Boot: Disabled
+- Secure Boot: Disabled (Can be enabled if you sign OpenCore correctly)
 - SATA Devices: AHCI mode
 
 ## Getting Started

@@ -1,4 +1,4 @@
-# OpenCore 1.0.4 - macOS 26 (Tahoe Beta 2)
+# OpenCore 1.0.5 - macOS 26 (Tahoe Beta 2)
 
 > Note: Also tested to be working on macOS 15 (Sequoia) and 14 (Sonoma)
 

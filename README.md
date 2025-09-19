@@ -7,7 +7,7 @@ Still in progress, but you should be able to boot and install.
 
 Has been stable so far. I've been using this as an iOS simulator device (both on Sequoia and Tahoe) with no issues. On Tahoe, I've ran into some library errors with Python which is to be expected as support and adoption is not there yet.
 
-Note: SSDT files are built for my system, thus it may not work for other systems. I strongly recommend that you build it specific to your device.
+Note: SSDT files are built for my system, thus it may not work for other systems/configurations.
 
 ![Tahoe](.github/screenshots/tahoe.png)
 
@@ -65,7 +65,7 @@ Note: SSDT files are built for my system, thus it may not work for other systems
 
 - Bluetooth
 - Webcam (Black Screen)
-- Apple Intelligence
+- Apple Intelligence (lol)
 
 ## Untested
 
